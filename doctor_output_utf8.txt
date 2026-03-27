@@ -1,0 +1,34 @@
+﻿Running 17 checks on your project...
+14/17 checks passed. 3 checks failed. Possible issues detected:
+Use the --verbose flag to see more details about passed checks.
+
+Γ£û Check for common project setup issues
+The .expo directory is not ignored by Git. It contains machine-specific device history and development server settings and should not be committed.
+Advice:
+Add ".expo/" to your .gitignore to avoid committing local Expo state.
+
+Γ£û Check that required peer dependencies are installed
+Missing peer dependency: expo-font
+Required by: @expo/vector-icons
+Advice:
+Install missing required peer dependency with "npx expo install expo-font"
+Your app may crash outside of Expo Go without this dependency. Native module peer dependencies must be installed directly.
+
+Γ£û Check that packages match versions required by installed Expo SDK
+
+ΓÜá∩╕Å Minor version mismatches
+package       expected  found    
+react         19.1.0    19.2.0   
+react-native  0.81.5    0.83.1   
+
+≡ƒöº Patch version mismatches
+package       expected  found    
+expo          ~54.0.33  54.0.32  
+
+
+
+3 packages out of date.
+Advice:
+Use 'npx expo install --check' to review and upgrade your dependencies.
+To ignore specific packages, add them to "expo.install.exclude" in package.json. Learn more: https://expo.fyi/dependency-validation
+

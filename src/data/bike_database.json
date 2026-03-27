@@ -1,0 +1,175 @@
+[
+  {
+    "brand": "Royal Enfield",
+    "models": [
+      "Classic 350",
+      "Bullet 350",
+      "Hunter 350",
+      "Meteor 350",
+      "Himalayan 411",
+      "Himalayan 450",
+      "Interceptor 650",
+      "Continental GT 650",
+      "Super Meteor 650",
+      "Shotgun 650"
+    ]
+  },
+  {
+    "brand": "Hero MotoCorp",
+    "models": [
+      "Splendor Plus",
+      "HF Deluxe",
+      "Passion Plus",
+      "Glamour",
+      "Super Splendor",
+      "Xpulse 200 4V",
+      "Xpulse 200T",
+      "Karizma XMR",
+      "Xtreme 125R",
+      "Xtreme 160R",
+      "Xtreme 200S",
+      "Pleasure Plus",
+      "Destini 125"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "models": [
+      "Activa 6G",
+      "Activa 125",
+      "Dio",
+      "Shine 100",
+      "Shine 125",
+      "SP 125",
+      "Unicorn",
+      "Hornet 2.0",
+      "CB200X",
+      "H'ness CB350",
+      "CB350RS",
+      "CB300F",
+      "CB300R",
+      "CB300F Flex-Fuel"
+    ]
+  },
+  {
+    "brand": "Bajaj",
+    "models": [
+      "Pulsar 125",
+      "Pulsar 150",
+      "Pulsar N150",
+      "Pulsar N160",
+      "Pulsar NS200",
+      "Pulsar NS400Z",
+      "Dominar 250",
+      "Dominar 400",
+      "Avenger 160",
+      "Avenger 220",
+      "Platina 100",
+      "Platina 110",
+      "CT 110X",
+      "Chetak"
+    ]
+  },
+  {
+    "brand": "TVS",
+    "models": [
+      "Apache RTR 160",
+      "Apache RTR 160 4V",
+      "Apache RTR 180",
+      "Apache RTR 200 4V",
+      "Apache RR 310",
+      "Raider 125",
+      "Radeon",
+      "Sport",
+      "Jupiter",
+      "Ntorq 125",
+      "iQube"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "models": [
+      "R15 V4",
+      "MT-15 V2",
+      "FZ-S V4",
+      "FZ-X",
+      "FZ-FI",
+      "Aerox 155",
+      "RayZr 125",
+      "Fascino 125"
+    ]
+  },
+  {
+    "brand": "KTM",
+    "models": [
+      "Duke 125",
+      "Duke 200",
+      "Duke 250",
+      "Duke 390",
+      "RC 125",
+      "RC 200",
+      "RC 390",
+      "Adventure 250",
+      "Adventure 390"
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "models": [
+      "Access 125",
+      "Burgman Street 125",
+      "Avenis 125",
+      "Gixxer",
+      "Gixxer SF",
+      "Gixxer 250",
+      "Gixxer SF 250",
+      "V-Strom SX"
+    ]
+  },
+  {
+    "brand": "Kawasaki",
+    "models": [
+      "Ninja 300",
+      "Ninja 400",
+      "Ninja 500",
+      "Ninja ZX-4R",
+      "Ninja ZX-6R",
+      "Ninja ZX-10R",
+      "Z650",
+      "Z900",
+      "Versys 650"
+    ]
+  },
+  {
+    "brand": "BMW Motorrad",
+    "models": [
+      "G 310 R",
+      "G 310 GS",
+      "F 900 R",
+      "F 900 GS",
+      "S 1000 RR",
+      "R 1250 GS"
+    ]
+  },
+  {
+    "brand": "Triumph",
+    "models": [
+      "Speed 400",
+      "Scrambler 400 X",
+      "Street Triple RS",
+      "Tiger Sport 660",
+      "Tiger 900",
+      "Rocket 3"
+    ]
+  },
+  {
+    "brand": "Harley-Davidson",
+    "models": [
+      "X440",
+      "Nightster",
+      "Sportster S",
+      "Fat Bob 114",
+      "Street Glide"
+    ]
+  }
+]

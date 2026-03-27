@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Kottarathuparampil Automobiles",
+        "phone": "9447758994",
+        "latitude": 9.32156,
+        "longitude": 76.60972,
+        "address": "Near Vellavoor Junction, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "Engine Parts",
+            "Electrical Parts"
+        ]
+    },
+    {
+        "name": "Joy's 2 Wheeler & 3 Wheeler Auto Spare Parts Shop",
+        "phone": "9188246148",
+        "latitude": 9.31742,
+        "longitude": 76.61190,
+        "address": "Bethel Road, Opposite Kanjikkal Traders, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "Motorcycle Spare Parts",
+            "Brake Parts",
+            "Transmission Parts"
+        ]
+    },
+    {
+        "name": "Nisha Automobiles",
+        "phone": "9447776638",
+        "latitude": 9.31691,
+        "longitude": 76.60995,
+        "address": "Bethel Road, Near Triveni Super Market, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "General Auto Parts"
+        ]
+    },
+    {
+        "name": "Premier Auto Spares",
+        "phone": "Not Available",
+        "latitude": 9.32510,
+        "longitude": 76.61280,
+        "address": "SH 1, Chengannur Part, Kerala 689124",
+        "status": "approved",
+        "services": [
+            "Auto Spare Parts",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Car Automobiles",
+        "phone": "8281174083",
+        "latitude": 9.32388,
+        "longitude": 76.61165,
+        "address": "SH 1, Opposite Shymas Honda, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "Auto Accessories",
+            "Spare Parts"
+        ]
+    },
+    {
+        "name": "Popular Bajaj Chengannur",
+        "phone": "9995809274",
+        "latitude": 9.32440,
+        "longitude": 76.61090,
+        "address": "SH 1, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "Bajaj Spare Parts",
+            "Authorized Service",
+            "Engine Parts"
+        ]
+    },
+    {
+        "name": "Menethu TVS",
+        "phone": "Not Available",
+        "latitude": 9.32310,
+        "longitude": 76.60940,
+        "address": "MC Road, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "TVS Spare Parts",
+            "Service Center"
+        ]
+    },
+    {
+        "name": "Shymas Riders Honda",
+        "phone": "Not Available",
+        "latitude": 9.32280,
+        "longitude": 76.60900,
+        "address": "MC Road, Chengannur, Kerala 689121",
+        "status": "approved",
+        "services": [
+            "Honda Spare Parts",
+            "Authorized Service"
+        ]
+    }
+]
