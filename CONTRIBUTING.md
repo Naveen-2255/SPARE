@@ -4,9 +4,9 @@ Thank you for helping us grow the SPARE platform! For this event, we are focusin
 
 You do not need deep React Native knowledge to contribute to these issues! You just need to know how to edit JSON files.
 
-## 📍 How to Add a Mechanic Shop
+## 📍 How to Add a Spare Parts Shop
 We store our initial shop data in `src/data/real_shops.json`.
-1. Find a real two-wheeler mechanic shop on Google Maps.
+1. Find a real two-wheeler spare parts shop on Google Maps.
 2. Right-click the red pin on Google Maps to copy the **Latitude and Longitude**.
 3. Open `src/data/real_shops.json` and add a new object to the array like this:
 ```json
