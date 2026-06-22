@@ -22,5 +22,5 @@ We store our initial shop data in `src/data/real_shops.json`.
 ## We store video links inside our parts inventory so riders can learn how to install them
 1. Find a high-quality YouTube tutorial for a specific bike repair (e.g., "Change Splendor Headlight").
 2. Get the Video ID from the URL (the text after v=). Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ -> ID is dQw4w9WgXcQ.
-3. Open src/data/app_data.json.
+3. Open src/screens/VedioHubScreen.
 4. Find the relevant spare part in the "parts" array and update its "video_id" field.
