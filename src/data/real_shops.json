@@ -540,7 +540,6 @@
     "longitude": 76.0902173,
     "address": "NH 766, Kainatty, Kalpetta, Kerala 673122",
     "status": "approved",
-    "shop_id": "shop_royal_bike_spares_kalpetta",
     "services": ["Two Wheeler Spare Parts", "Genuine Parts", "Bike Accessories"]
   },
   {
@@ -550,7 +549,6 @@
     "longitude": 76.0914405,
     "address": "NH 766, Kainatty, Kalpetta, Kerala 673122",
     "status": "approved",
-    "shop_id": "shop_zinbro_motohub_kalpetta",
     "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Engine Parts"]
   },
   {
@@ -560,7 +558,6 @@
     "longitude": 76.0883432,
     "address": "Civil Station, Kairali Nagar, Kalpetta, Kerala 673122",
     "status": "approved",
-    "shop_id": "shop_outlaw_pitstop_kalpetta",
     "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
   },
   {
@@ -570,7 +567,6 @@
     "longitude": 76.0044858,
     "address": "Mananthavady, Kerala 670645",
     "status": "approved",
-    "shop_id": "shop_geo_automobiles_mananthavady",
     "services": ["Two Wheeler Spare Parts", "Engine Parts", "Electrical Parts"]
   },
   {
@@ -580,7 +576,6 @@
     "longitude": 76.0080097,
     "address": "Thalassery - Mysore Road, Mananthavady, Kerala 670645",
     "status": "approved",
-    "shop_id": "shop_wayanad_motors_mananthavady",
     "services": ["Two Wheeler Spare Parts", "Engine Parts", "Genuine Parts"]
   }
 ]
