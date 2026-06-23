@@ -2,15 +2,16 @@
 Please briefly explain what you added or fixed. 
 *(e.g., "Added 5 mechanic shops in Delhi" or "Added 10 YouTube video IDs for Bajaj Pulsar")*
 
-**Fixes Issue:** #[Insert the Issue Number you are solving here]
+Fixes #[Insert the Issue Number you are solving here]
 
 ---
 
 ## 🔍 Type of Contribution
-Please select the type of contribution you are making:
+Please select the type of contribution you are making (check one or more):
 - [ ] 🏪 Added new Mechanic Shops (JSON data)
 - [ ] 🎥 Added new DIY Repair Videos (JSON data)
 - [ ] 🐛 Bug Fix / UI Improvement
+- [ ] 📝 Documentation Update
 
 ---
 
