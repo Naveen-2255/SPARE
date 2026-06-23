@@ -124,5 +124,39 @@
     "address": "Customs Road, Chalil, Thalassery, Kerala 670101",
     "status": "approved",
     "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+  },
+
+  {
+    "name": "Marakkar Auto Parts",
+    "phone": "9447839333",
+    "latitude": 10.7700,
+    "longitude": 76.6600,
+    "address": "Coimbatore Road near stadium, Mankavu, Palakkad, Kerala 678001",
+    "status": "approved"
+  },
+  {
+    "name": "KAVITHA AUTOMOBILES",
+    "phone": "4912534941",
+    "latitude": 10.7700,
+    "longitude": 76.6500,
+    "address": "11/306, Kannara St, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
+    "status": "approved"
+  },
+  {
+    "name": "Surya Auto Parts",
+    "phone": "9446458399",
+    "latitude": 10.8000,
+    "longitude": 76.6400,
+    "address": "Royal Plaza Complex, Calicut Road, Chunnambuthara, Olavakode, Palakkad, Kerala 678002",
+    "status": "approved"
+  },
+  {
+    "name": "Bike store , Helmets & Bike Accessories & two wheeler spare parts",
+    "phone": "8156960161",
+    "latitude": 10.7750,
+    "longitude": 76.6550,
+    "address": "Chinmaya Nagar, Chakkanthara, Palakkad, Kerala 678006",
+    "status": "approved"
   }
+
 ]
