@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Maas Auto Parts, Royal Enfield Genuine Spare and Accessories",
+    "phone": "7907807202",
+    "latitude": 8.4826,
+    "longitude": 76.9596,
+    "address": "TC-55/1535, NH 66, Opp. BP Petrol Pump, Thiruvananthapuram, Kerala 695040",
+    "status": "approved",
+    "services": [
+      "Royal Enfield Spare Parts",
+      "Motorcycle Spare Parts",
+      "Accessories"
+    ]
+  },
+  {
+    "name": "Krishna Spare Parts",
+    "phone": "9567146912",
+    "latitude": 8.5410,
+    "longitude": 76.9670,
+    "address": "Akshaya Tower, Civil Station Road, Peroorkada, Thiruvananthapuram, Kerala 695005",
+    "status": "approved",
+    "services": [
+      "Two Wheeler Spare Parts",
+      "Motorcycle Parts",
+      "Auto Accessories"
+    ]
+  }
+]
