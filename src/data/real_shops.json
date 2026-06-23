@@ -197,6 +197,7 @@
     "address": "Chinmaya Nagar, Chakkanthara, Palakkad, Kerala 678006",
     "status": "approved"
   },
+
     {
         "name": "New Wheels Automobiles",
         "phone": "9809491379",
@@ -244,8 +245,117 @@
         "longitude": 76.3378408,
         "address": "F8FQ+R4P, Kalarcode, Pazhaveedu, Alappuzha, Kerala 688003",
         "status": "approved",
-        "services": ["Auto Accessories", "Spare Parts"]
+        "services": [
+            "Auto Accessories",
+            "Spare Parts"
+        ]
     },
+{
+    "name": "New Hyland Autoparts",
+    "phone": "9495733267",
+    "latitude": 9.267280848847658,
+    "longitude": 76.80741173562245,
+    "address": "Puthenpurackal Building, Ranni Road, Kumbazha, Mylapra, Pathanamthitta, Kerala 689653",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts",
+        "Engine Parts",
+        "Electrical Parts"
+    ]
+},
+{
+    "name": "Pulimoottil Spare Parts",
+    "phone": "6238383744",
+    "latitude": 9.257740292636875,
+    "longitude": 76.78431465060397,
+    "address": "Azhoor Rd, Azhoor, Pathanamthitta, Kerala 689645",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "MK TWO WHEELER",
+    "phone": "9947417921",
+    "latitude": 9.237800764076866,
+    "longitude": 76.75522610827481,
+    "address": "Omalloor, Pathanamthitta, Kerala 689647",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "Ride En Bullets Royal Enfield Genuine Spares Authorised Store",
+    "phone": "9656233239",
+    "latitude": 9.26380202038909,
+    "longitude": 76.78199173192392,
+    "address": "TB Rd, Pathanamthitta, Kerala 689645",
+    "status": "approved",
+    "services": [
+        "Royal Enfield Genuine Spares",
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "Motoport Car And Bike Accessories",
+    "phone": "9846853012",
+    "latitude": 9.270650838265322,
+    "longitude": 76.80227311546398,
+    "address": "Popular Junction, SH7, Kumbazha, Mylapra, Pathanamthitta, Kerala 689653",
+    "status": "approved",
+    "services": [
+        "Bike Accessories",
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "Spareworld",
+    "phone": "8921548097",
+    "latitude": 9.243640176066437,
+    "longitude": 76.67208983491224,
+    "address": "Building no: 14, TB Junction, 64, Aranmula Road, Kulanada, Pandalam, Kerala 689503",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "VETTAM AUTO SPARES",
+    "phone": "9447033051",
+    "latitude": 9.210551533690616,
+    "longitude": 76.68718778959038,
+    "address": "Sankarathil Padi Junction, Pandalam, Kerala 689501",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "Weels Auto Parts",
+    "phone": "9497179000",
+    "latitude": 9.230465108335626,
+    "longitude": 76.67687938650876,
+    "address": "183, National Highway, Pandalam, Kerala 689501",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts"
+    ]
+},
+{
+    "name": "NATIONAL SPARE PARTS AND ACCESSORIES, PANDALAM",
+    "phone": "9400291183",
+    "latitude": 9.212795180267271,
+    "longitude": 76.68460199893673,
+    "address": "Near Chithra Hospital, Kadakkadu, Kurampala, Pandalam, Kerala 689501",
+    "status": "approved",
+    "services": [
+        "Two Wheeler Spare Parts",
+        "Helmet Shop",
+        "Battery Store",
+        "Accessories"
+    ]
+},
     {
         "name": "Chetak Showroom KASARAGOD",
         "phone": "9605000291",
