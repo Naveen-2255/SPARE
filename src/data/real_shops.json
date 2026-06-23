@@ -99,30 +99,94 @@
         ]
     },
     {
-    "name": "Raj Auto Centre Thalassery",
-    "phone": "7012600859",
-    "latitude": 11.7525767,
-    "longitude": 75.4923121,
-    "address": "Railway Station Platform 2, Thalassery, Kerala 670104",
-    "status": "approved",
-    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Genuine Parts"]
-  },
-  {
-    "name": "MM Auto Spare Parts Two Wheeler",
-    "phone": "9946223069",
-    "latitude": 11.7996508,
-    "longitude": 75.4865018,
-    "address": "Thalassery - Irikkur Road, Pinarayi, Kerala 670741",
-    "status": "approved",
-    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Electrical Parts"]
-  },
-  {
-    "name": "Club 46 Pitstop",
-    "phone": "7902234646",
-    "latitude": 11.7454661,
-    "longitude": 75.4879778,
-    "address": "Customs Road, Chalil, Thalassery, Kerala 670101",
-    "status": "approved",
-    "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
-  }
+        "name": "Raj Auto Centre Thalassery",
+        "phone": "7012600859",
+        "latitude": 11.7525767,
+        "longitude": 75.4923121,
+        "address": "Railway Station Platform 2, Thalassery, Kerala 670104",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "Engine Parts",
+            "Genuine Parts"
+        ]
+    },
+    {
+        "name": "MM Auto Spare Parts Two Wheeler",
+        "phone": "9946223069",
+        "latitude": 11.7996508,
+        "longitude": 75.4865018,
+        "address": "Thalassery - Irikkur Road, Pinarayi, Kerala 670741",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "Engine Parts",
+            "Electrical Parts"
+        ]
+    },
+    {
+        "name": "Club 46 Pitstop",
+        "phone": "7902234646",
+        "latitude": 11.7454661,
+        "longitude": 75.4879778,
+        "address": "Customs Road, Chalil, Thalassery, Kerala 670101",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "Bike Accessories",
+            "Safety Gear"
+        ]
+    },
+    {
+        "name": "New Wheels Automobiles",
+        "phone": "9809491379",
+        "latitude": 9.4899736,
+        "longitude": 76.3394254,
+        "address": "AATD Complex, Opposite General Hospital, Anantha Narayanapuram, Alappuzha, Kerala 688011",
+        "status": "approved"
+    },
+    {
+        "name": "National Auto Parts (Two-Three wheeler)",
+        "phone": "09995633003",
+        "latitude": 9.5006984,
+        "longitude": 76.3359824,
+        "address": "Alappuzha, Kerala 688001",
+        "status": "approved"
+    },
+    {
+        "name": "New Dreams Auto Spare Parts",
+        "phone": "09562603706",
+        "latitude": 9.5118253,
+        "longitude": 76.3386474,
+        "address": "G86Q+PFJ, SH40, Kaichoondi, Aryad South, Alappuzha, Kerala 688013",
+        "status": "approved"
+    },
+    {
+        "name": "Kichoos Royal Spares and Workshop",
+        "phone": "09650899730",
+        "latitude": 9.5162346,
+        "longitude": 76.3347882,
+        "address": "Ashramam Road, Opp. Balika Asramam, Avalookunnu P.O, Kaichoondi, Alappuzha, Kerala 688006",
+        "status": "approved"
+    },
+    {
+        "name": "ABS Spares & Service",
+        "phone": "09544111041",
+        "latitude": 9.4668561,
+        "longitude": 76.3391916,
+        "address": "Sivakripa, Vadackal, F87Q+MPC, Kalarcode, Punnapra North, Alappuzha, Kerala 688003",
+        "status": "approved"
+    },
+    {
+        "name": "Achu Motors (Royal Spares)",
+        "phone": "04772267609",
+        "latitude": 9.474599,
+        "longitude": 76.3378408,
+        "address": "F8FQ+R4P, Kalarcode, Pazhaveedu, Alappuzha, Kerala 688003",
+        "status": "approved",
+        "services": [
+            "Auto Accessories",
+            "Spare Parts"
+        ]
+    }
 ]
