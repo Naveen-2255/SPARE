@@ -97,6 +97,74 @@
             "Honda Spare Parts", 
             "Authorized Service"
         ]
+<<<<<<< HEAD
+    },
+
+  {
+    "name": "Grand Automobiles",
+    "phone": "9847921036",
+    "latitude": 10.518,
+    "longitude":76.214,
+    "address": "R.S Road Junction, Thrissur, Kerala",
+    "status": "approved",
+    "services": [
+        "Motorcycle Spare Parts",
+        "Brake Parts",
+        "Transmission Parts"
+    ]
+    },
+    {
+    "name": "AUTOGRAND Two & Three Wheeler Spares, Accessories & Helmets",
+    "phone": "8921000069",
+    "latitude": 10.518,
+    "longitude": 76.212,
+    "address": "Poothole Road, Near Jayalakshmi Silks, Thrissur, Kerala",
+    "status": "approved",
+    "services": [
+        "Motorcycle Spare Parts",
+        "Bike Accessories",
+        "Helmet Sales"
+    ]
+     },
+    {
+    "name": "Eagle Auto Spares",
+    "phone": "8547502427",
+    "latitude": 10.528,
+    "longitude": 76.214,
+    "address": "Poothole, Thrissur, Kerala",
+    "status": "approved",
+    "services": [
+        "Motorcycle Spare Parts",
+        "Brake Parts",
+        "Transmission Parts"
+    ]
+    },
+    {
+    "name": "Trichur Auto Spares",
+    "phone": "7034900990",
+    "latitude": 10.556,
+    "longitude": 76.308,
+    "address": "Maraikal Kannara, Near Sri Durga Temple, Thrissur, Kerala",
+    "status": "approved",
+    "services": [
+        "Motorcycle Spare Parts",
+        "Engine Parts",
+        "Lubricants"
+    ]
+    },
+    {
+    "name": "Chandy's Auto Spares - Genuine Parts",
+    "phone": "7356148834",
+    "latitude": 10.521,
+    "longitude": 76.209,
+    "address": "Marathakkara - Puzhampallam Road, Thrissur, Kerala",
+    "status": "approved",
+    "services": [
+        "Motorcycle Spare Parts",
+        "Genuine Parts",
+        "Brake Parts"
+    ]
+=======
 
     },
   {
@@ -235,5 +303,6 @@
         "longitude": 75.08147825508031,
         "address": "Dubai Complex, 4&5, Durga School Rd, Hosdurg, Kanhangad, Kerala 671315",
         "status": "approved"
+>>>>>>> upstream/master
     }
 ]
