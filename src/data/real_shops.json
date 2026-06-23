@@ -157,8 +157,8 @@
     "longitude": 76.6550,
     "address": "Chinmaya Nagar, Chakkanthara, Palakkad, Kerala 678006",
     "status": "approved"
-  }
-
+  },
+  {
         "name": "Raj Auto Centre Thalassery",
         "phone": "7012600859",
         "latitude": 11.7525767,
@@ -248,5 +248,47 @@
             "Auto Accessories",
             "Spare Parts"
         ]
-    }
+    },
+    [
+  {
+    "name": "Bombay Auto Agencies",
+    "phone": "09745343959",
+    "latitude": 9.9856679,
+    "longitude": 76.2801630,
+    "address": "Banerji Rd, Kacheripady, Ernakulam, Kerala 682018",
+    "status": "approved"
+  },
+  {
+    "name": "Safe Automobiles",
+    "phone": "09447378584",
+    "latitude": 9.9710011,
+    "longitude": 76.3173949,
+    "address": "30/1358, C1 Olaparath Building, Vyttila, Kochi, Kerala 682019",
+    "status": "approved"
+  },
+  {
+    "name": "Jay Auto",
+    "phone": "09388277001",
+    "latitude": 9.9783088,
+    "longitude": 76.2850895,
+    "address": "Jay House, 40/9132, Chittoor Rd, Shenoys, Ernakulam, Kerala 682035",
+    "status": "approved"
+  },
+  {
+    "name": "Ideal Auto Spares",
+    "phone": "09745756379",
+    "latitude": 9.9887037,
+    "longitude": 76.2858122,
+    "address": "Metro Pillar No.612, Paramara Complex, 67/254, Paramara Rd, Kacheripady, Kochi, Kerala 682018",
+    "status": "approved"
+  },
+  {
+    "name": "Alapatt Auto Spares",
+    "phone": "Not Available",
+    "latitude": 9.9963614,
+    "longitude": 76.2948361,
+    "address": "37/3913, Central Arcade, Azad Rd, Kaloor, Ernakulam, Kerala 682017",
+    "status": "approved"
+  }
+]
 ]
