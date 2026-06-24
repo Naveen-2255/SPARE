@@ -532,5 +532,50 @@
             "Motorcycle Parts",
             "Scrap Parts"
         ]
-    }
+    },
+    {
+    "name": "ROYAL BIKE SPARES & ACCESSORIES",
+    "phone": "9072740750",
+    "latitude": 11.6366275,
+    "longitude": 76.0902173,
+    "address": "NH 766, Kainatty, Kalpetta, Kerala 673122",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Genuine Parts", "Bike Accessories"]
+  },
+  {
+    "name": "ZINBRO MOTOHUB",
+    "phone": "9995802009",
+    "latitude": 11.6361749,
+    "longitude": 76.0914405,
+    "address": "NH 766, Kainatty, Kalpetta, Kerala 673122",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Engine Parts"]
+  },
+  {
+    "name": "Outlaw Pitstop",
+    "phone": "9495749400",
+    "latitude": 11.6290061,
+    "longitude": 76.0883432,
+    "address": "Civil Station, Kairali Nagar, Kalpetta, Kerala 673122",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+  },
+  {
+    "name": "Geo Automobiles",
+    "phone": "9744859609",
+    "latitude": 11.8102207,
+    "longitude": 76.0044858,
+    "address": "Mananthavady, Kerala 670645",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Electrical Parts"]
+  },
+  {
+    "name": "WAYANAD MOTORS",
+    "phone": "9562281432",
+    "latitude": 11.8035619,
+    "longitude": 76.0080097,
+    "address": "Thalassery - Mysore Road, Mananthavady, Kerala 670645",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Genuine Parts"]
+  }
 ]
