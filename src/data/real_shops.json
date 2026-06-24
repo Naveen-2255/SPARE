@@ -577,5 +577,14 @@
     "address": "Thalassery - Mysore Road, Mananthavady, Kerala 670645",
     "status": "approved",
     "services": ["Two Wheeler Spare Parts", "Engine Parts", "Genuine Parts"]
+  },
+  {
+    "name": "JR & Sons Spares",
+    "phone": "9567926619",
+    "latitude": 9.9685,
+    "longitude": 76.2813,
+    "address": "Krishnaswamy Rd, Arangath Pullepady,Ernakulam,Kerala 682035",
+    "status":"approved",
+    "services":["Bike Accessories","General Auto Parts"]
   }
 ]
