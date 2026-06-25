@@ -586,5 +586,46 @@
     "address": "Krishnaswamy Rd, Arangath Pullepady,Ernakulam,Kerala 682035",
     "status":"approved",
     "services":["Bike Accessories","General Auto Parts"]
+  },
+  {
+    "name": "A2Z Automobiles",
+    "phone": "07012888241",
+    "latitude": 9.8357405,
+    "longitude": 77.1623587,
+    "address": "R5P6+7WX, SH40, Nedumkandam, Kerala 685553",
+    "status": "approved"
+  },
+  {
+    "name": "Associated Automobiles",
+    "phone": "09447313820",
+    "latitude": 9.7548704,
+    "longitude": 77.1132215,
+    "address": "Q437+W7X, Kattappana, Kerala 685508",
+    "status": "approved"
+  },
+  {
+    "name": "Classic Automobiles & Bike House",
+    "phone": "09995539525",
+    "latitude": 9.9949904,
+    "longitude": 76.786714,
+    "address": "Sabarimala-Kodaikkanal Rd, Vannappuram, Kerala 685607",
+    "status": "approved"
+  },
+  {
+    "name": "Modern Auto Spares (Two Wheeler)",
+    "phone": "04862229035",
+    "latitude": 9.9023701,
+    "longitude": 76.711547,
+    "address": "Thodupuzha - Muvattupuzha Rd, Thodupuzha, Kerala 685584",
+    "status": "approved"
+  },
+  {
+    "name": "Mariya Auto Spares",
+    "phone": "0000000000",
+    "latitude": 9.8940182,
+    "longitude": 76.9716924,
+    "address": "Private Stand, Neriamangalam Painavu Road, Karimban, Idukki, Kerala 685602",
+    "status": "approved"
   }
 ]
+
