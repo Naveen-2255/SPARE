@@ -1,0 +1,80 @@
+[
+  {
+    "name": "WINS Autos",
+    "phone": "4954040262",
+    "latitude": 11.274343,
+    "longitude": 75.777007,
+    "address": "Wins Tower, CH Cross Rd, East Nadakkavu, Hamsa Square, West Nadakkave, East Nadakkave, West Hill, Kozhikode, Kerala 673011",
+    "status": "approved",
+    "services": [
+      "Two Wheeler Spare Parts",
+      "Motorcycle Spare Parts",
+      "Bike Accessories"
+    ]
+  },
+  {
+    "name": "Two Wheeler Spare Parts",
+    "phone": "0000000000",
+    "latitude": 11.274989,
+    "longitude": 75.777986,
+    "address": "Sithara Building, 1/4887 A, Wayanad Rd, East Nadakkave, Nadakkave, Kozhikode, Kerala 673011",
+    "status": "approved",
+    "services": [
+      "Two Wheeler Spare Parts",
+      "Auto Spare Parts",
+      "Bike Accessories"
+    ]
+  },
+  {
+    "name": "Smart Two Wheeler Spares",
+    "phone": "9037848065",
+    "latitude": 11.259252,
+    "longitude": 75.808341,
+    "address": "7R55+J8X, Pottammal-Kattukulangara-Palazhi Rd, Pottammal, Kozhikode, Kerala 673016",
+    "status": "approved",
+    "services": [
+      "Two Wheeler Spare Parts",
+      "Motorcycle Spare Parts",
+      "Bike Accessories"
+    ]
+  },
+  {
+    "name": "Omega Auto Spares & ENI Lubricants retailer",
+    "phone": "4952722005",
+    "latitude": 11.253305,
+    "longitude": 75.779144,
+    "address": "Ward No 7, Shop No 87, Town Hall Rd, Near Crown Theater, Mananchira, Kozhikode, Kerala 673001",
+    "status": "approved",
+    "services": [
+      "Motorcycle Spare Parts",
+      "Auto Spare Parts",
+      "Lubricants"
+    ]
+  },
+  {
+    "name": "Moto spare",
+    "phone": "9349118891",
+    "latitude": 11.24191,
+    "longitude": 75.785771,
+    "address": "Town Gate Building, near Pushpa Junction, Pushpa Junction, Chalappuram, Kozhikode, Kerala 673002",
+    "status": "approved",
+    "services": [
+      "Motorcycle Spare Parts",
+      "Two Wheeler Spare Parts",
+      "Bike Accessories"
+    ]
+  },
+  {
+    "name": "HONDA GENUINE SPARES",
+    "phone": "7736860501",
+    "latitude": 11.241675,
+    "longitude": 75.781141,
+    "address": "6QRJ+JCG, AKG Over Brg, Thekepuram, Kuttichira, Kozhikode, Kerala 673001",
+    "status": "approved",
+    "services": [
+      "Honda Spare Parts",
+      "Motorcycle Spare Parts",
+      "Two Wheeler Spare Parts"
+    ]
+  }
+]

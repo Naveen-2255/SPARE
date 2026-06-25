@@ -4,6 +4,18 @@ import { db } from '../config/firebase';
 import { collection, addDoc } from 'firebase/firestore';
 
 import REAL_SHOPS from '../data/real_shops.json';
+import KOLLAM_SHOPS from '../data/real_shops_kollam.json';
+import KOZHIKODE_SHOPS from '../data/real_shops_Kozhikode.json';
+import KTM_SHOPS from '../data/real_shops_ktm.json';
+import TVM_SHOPS from '../data/real_shops_tvm.json';
+
+const ALL_REAL_SHOPS = [
+  ...REAL_SHOPS,
+  ...KOLLAM_SHOPS,
+  ...KOZHIKODE_SHOPS,
+  ...KTM_SHOPS,
+  ...TVM_SHOPS
+];
 
 export default function DataLoader() {
   const [log, setLog] = useState("Ready to Upload...");
@@ -51,7 +63,7 @@ export default function DataLoader() {
     setLog("Starting Real Shops Upload Process...");
 
     try {
-      const shops = REAL_SHOPS;
+      const shops = ALL_REAL_SHOPS;
       let shopCount = 0;
       for (const shop of shops) {
         const shopData = {
@@ -77,7 +89,7 @@ export default function DataLoader() {
       <Text style={styles.header}>Database Loader</Text>
 
       <View style={styles.infoBox}>
-        <Text>Real Shops in file: {REAL_SHOPS?.length || 0}</Text>
+        <Text>Real Shops in file: {ALL_REAL_SHOPS?.length || 0}</Text>
       </View>
 
       {loading ? (
