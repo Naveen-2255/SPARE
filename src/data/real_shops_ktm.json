@@ -1,0 +1,92 @@
+[
+    {
+        "name": "SS Two wheeler spare parts",
+        "phone": "9495384572",
+        "latitude": 9.589242264121754,
+        "longitude": 76.51907584719906,
+        "address": "118/2, Puthenangady, Kottayam, Kerala 686001",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Mahabhagavathi automobile",
+        "phone": "8921362213",
+        "latitude": 9.574375120009426,
+        "longitude": 76.51791064418121,
+        "address": "KURUP'S TOWER (1), Kodimatha, Kottayam, Kerala 686013",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Sabu's Spare Parts",
+        "phone": "9847127311",
+        "latitude": 9.589214041794268,
+        "longitude": 76.50548092883623,
+        "address": "Thazhathangadi Kurissupalli Rd, Illikkal, Veloor, Kottayam, Kerala 686003",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Spare Zone",
+        "phone": "9495963888",
+        "latitude": 9.601875099097406,
+        "longitude": 76.51555343207178,
+        "address": "HGP9+QVV, Jetty Rd, Kottayam, Kerala 686001",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Ideal Automobiles",
+        "phone": "9400745593",
+        "latitude": 9.645201986664159,
+        "longitude": 76.51830001415397,
+        "address": "HGQC+8QR, Kottayam, Kerala 686001",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "A J Auto Parts",
+        "phone": "9447420327",
+        "latitude": 9.617669942287764,
+        "longitude": 76.53963248800328,
+        "address": "Pukadiyil Building, S H Mount Post, SH 1, Nagampadam, Kottayam, Kerala 686006",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Vijayasaradhi Auto Parts",
+        "phone": "9847918381",
+        "latitude": 9.581479794580087,
+        "longitude": 76.52113196284422,
+        "address": "Opposite Krishna Traders, Pallipurathu Kavu Temple, near INTUC Office, Kodimatha, Kottayam, Kerala 686013",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Enchakkaden's Two Wheeler Spare Parts, Accessories, Workshop",
+        "phone": "9447767078",
+        "latitude": 9.723652830140274,
+        "longitude": 76.78125848112806,
+        "address": "MES Junction, Erattupetta, Kerala 686121",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Kottayam Motor Parts & Accessories - Royal Enfield Genuine Parts",
+        "phone": "9447067624",
+        "latitude": 9.590178999086731,
+        "longitude": 76.51953004418125,
+        "address": "Thirunkkara Mahadeva Temple Ground, Temple Rd, Thirunakara, Kottayam, Kerala 686001",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    },
+    {
+        "name": "Diya Automobiles - Genuine Parts - Hero MotoCorp",
+        "phone": "9447705868",
+        "latitude": 9.66775656690366,
+        "longitude": 76.52912723726698,
+        "address": "Door No Ii/520, B And C, opposite Indian Co Operative Credit Society Ltd, Chavittuary, Nattassery, Kottayam, Kerala 686016",
+        "status": "approved",
+        "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+    }
+]
