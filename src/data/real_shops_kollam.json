@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Expo Motor Cycle Spares",
+        "phone": "4742746707",
+        "latitude": 8.890315035197132,
+        "longitude": 76.59266764308155,
+        "address": "Andamukkam, Kollam, Kerala 691001",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts"
+        ]
+    },
+    {
+        "name": "Manju Auto Spares",
+        "phone": "9847106497",
+        "latitude": 8.884887825898089,
+        "longitude": 76.59163767486022,
+        "address": "Beach Rd, Mundakkal, Kollam, Kerala 691001",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts"
+        ]
+    },
+    {
+        "name": "NN Motospa",
+        "phone": "8893918651",
+        "latitude": 8.892350217955473,
+        "longitude": 76.58854777019623,
+        "address": "Op Bank of India, Andamukkam Rd, Andamukkam, Chinnakada, Kollam, Kerala 691001",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts"
+        ]
+    },
+    {
+        "name": "MS Auto Spares",
+        "phone": "9400194480",
+        "latitude": 8.879799744191555,
+        "longitude": 76.6342096946753,
+        "address": "Near Ananteswara Motors, Thattamala, Palathara, Kollam, Kerala 691020",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts"
+        ]
+    },
+    {
+        "name": "Sabari Auto Spares",
+        "phone": "9382883821",
+        "latitude": 8.911005532550584,
+        "longitude": 76.62150675327887,
+        "address": "Gopasree Building, Kallumthazham, Mangad, Kollam, Kerala 691004",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts"
+        ]
+    },
+    {
+        "name": "AM Two Wheeler Spares & Accessories",
+        "phone": "9605796493",
+        "latitude": 9.074113943613145,
+        "longitude": 76.63867289030108,
+        "address": "Bharanikavu, Kerala 690520",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Chicha Auto Spares",
+        "phone": "9400910415",
+        "latitude": 8.902121502201311,
+        "longitude": 76.5645327348397,
+        "address": "Curzon Rd, Mulamkadakam, Kollam, Kerala 691012",
+        "status": "approved",
+        "services": [
+            "Two Wheeler Spare Parts",
+            "Three Wheeler Spare Parts"
+        ]
+    }
+]
